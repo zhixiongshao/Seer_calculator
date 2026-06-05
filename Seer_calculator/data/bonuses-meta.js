@@ -1,1 +1,0 @@
-window.BONUSES_META={"mintmarks":3145,"suits":475,"suitsWithBonus":61,"titles":85,"goggles":74,"updated":"2026-06-05","source":"SeerAPI"};
