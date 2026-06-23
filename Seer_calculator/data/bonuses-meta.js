@@ -1,0 +1,1 @@
+window.BONUSES_META={"mintmarks":3145,"suits":475,"suitsWithBonus":61,"titles":85,"goggles":78,"updated":"2026-06-23","source":"SeerAPI","dataRevision":2,"hashes":{"mintmark":"8adc5c42","universal_mintmark":"88354e24","suit":"de41008b","title":"8f84fa65","equip":"2e9182bf"}};
